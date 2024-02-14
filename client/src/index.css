@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.layout {
+  height: 200px;
+  padding: 20px;
+}
